@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Safety
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML..etc
-- 💞️ I’m looking to collaborate on basic HTML Projects
+- 👀 I’m Ethical Hacking noob
+- I'm a python programmer
+- 💞️ I’m looking to collaborate on Ethical Hacking projects
 - 📫 How to reach me via Jomens136@gmail.com
 
 <!---
